@@ -1,0 +1,60 @@
+#variables
+let , var y const
+
+#tipos de datos 
+number , strg, boolean
+Nan (not a number)
+null    (vacio)
+undefined   (no definido)
+- objeto literal
+{clave: valor,
+clave1: valor1
+}
+- array 
+[valor1, valor2]
+
+# operadores
++ - * /
+% = modulo
+//
+++ incremento -- decremento
+comparacion simple == 
+=== ==== estricta
+desigualdad simple y estricta
+!= pregunta solo por el valor
+!== preg valor y tipo de datos
+> mayor 
+< menor
+operadores logicos
+And && 
+or ||
+concatenacion con + 
+
+$ ver toda la clase 3 y 4 del playgorund y hacer los microdesafios pendientes
+$ ademas de ver el ds para sacar algo de info por la dudas como para completarlo
+$ para el martes haber visto toda la informacion para seguir con la clase y no perdere 
+
+vi las clases pero no hice los ejercicios
+
+#clase 5 funciones 
+Funciones = es un listado de procedimientos que se ejecutaran cuando sea necesario
+
+Funcion-expresada =  es aquella que se le asigna como valor una variable 
+                   $ let sumar = funtion(){...}
+                    y se carga antes de que cualquier codigo sea ejecutado
+
+funcion-declarada = es aquella que recibe un nombre formal y no se asigna como valor a una variable
+                    $ function sumar(x,y){}
+                    se carga unicamente cuando alcanza la linea donde este la funcion
+
+* scope local y global 
+se diferencia por ser una de manera local y no se ejecuta fuera de la funcion en cambio en la globar si
+siendo llamada desde otra parte del codigo
+
+#arrow funcion
+# funciones flechas
+
+let sumar = (x,y) =>  x+y;
+
+
+

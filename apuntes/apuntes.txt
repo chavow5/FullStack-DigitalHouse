@@ -1,0 +1,23 @@
+Apuntes de clases full stack La Rioja 
+
+#clase 1 
+bienvenida 
+
+#clase 2 11-04 
+#logica de programacion
+uso de terminal y node.js
+cd
+cd..
+touch (crea archivo)
+rmdir 
+mkdir
+code. (entrar al visual y el punto es para saber donde estamos parados)
+
+node
+npm init (crear proyecto nuevo) 
+
+creamos nuestro primer hola mundo 
+
+#clase 3 24-03
+condicionales
+

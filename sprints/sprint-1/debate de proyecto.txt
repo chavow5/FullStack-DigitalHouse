@@ -1,0 +1,23 @@
+proyecto propuesto 
+# David Ramirez: 
+presentacion de una e-commerce de suplementos deportivos
+Nombre: "BLUESHOP" logo: si
+lista de produtos: si 
+
+[categorias]
+* aminoacidos y BCAA
+* proteina
+* suplementos pre-post entreno
+* creatinas
+* produtos naturales
+* suplementos para mujeres
+
+{objetivos}
+crear una pagina web responsive
+ofrecer variedades de productos 
+proveer informacion detallada de cada producto 
+comentarios de clientes sobre los productos 
+
+{web de ajemplo}
+apple.com
+mercadolibre.com
