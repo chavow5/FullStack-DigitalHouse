@@ -18,6 +18,6 @@ ofrecer variedades de productos
 proveer informacion detallada de cada producto 
 comentarios de clientes sobre los productos 
 
-{web de ajemplo}
+{web de ejemplo}
 apple.com
 mercadolibre.com
