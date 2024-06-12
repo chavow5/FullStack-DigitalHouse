@@ -21,3 +21,42 @@ creamos nuestro primer hola mundo
 #clase 3 24-03
 condicionales
 
+#clase 17 11-06
+[IMPORTANTE PARA EL SEO DE UNA PAGINA WEB]
+
+para poder hacer una estructura semantica y encerrar en etiquetas
+
+<header>
+    logotipo
+    barra de nav
+    barra de busqueda
+    enlaces a redes sociales
+</header>
+
+<nav> 
+    <ul>
+        <li><a href="#">Inicio</a></li>
+</nav>
+
+<footer>
+    <p>todos los derechos reservados </p>
+    <nav>
+        ul terminos y condicione 
+        ul mapa del sitio
+        ul informacion global
+
+<section>
+    seccion de contenido 
+    productos destacados 
+    descripcion del producto
+    <header> o <footer> "continar leyendo..."
+    <artcle>
+        "descripcion del producto"
+        "caracteristicas"
+
+[IMPORTANTE PARA EL SEO DE UNA PAGINA WEB]
+
+se tiene que devidir en contenedores
+nombrar como archivo principal
+
+INDEX.HTML  
