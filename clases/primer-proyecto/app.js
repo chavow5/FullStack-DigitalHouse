@@ -2,11 +2,13 @@ const express = require('express');
 const app = express();
 
 // llamar al servidor desde un puerto
-app.listen(3000,() => {
-    console.log('servidor corriendo en el puerto 3000')
-    console.log('localhost:3000');;
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log(`Servidor ejecutándose en el puerto ${PORT}`);
+    const now = new Date(); // agrego una hora para saber el tiempo de actualizacion 
+    console.log(`Actualizacion: ${now}`)
+});
 
-})
 
 // para poner la app en publico y estatico
 const path = require('path')
@@ -31,11 +33,11 @@ app.get('/login', (req, res) => {
 });
 
 // registro 
-app.get('./register', (req, res) => {
+app.get('/register', (req, res) => {
     res.sendFile(path.join(__dirname, './views/register.html'));
 });
 
 // formulario
 app.post('/sumbit-form', (req, res) =>{
-    res.redirect('/');
+    res.redirect('./views/index.html');
 }); // toma el proceso del formulario y vulve a la carpeta anterior 
