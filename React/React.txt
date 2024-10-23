@@ -1,0 +1,11 @@
+crear un nuevo proyecto de React 
+
+consola 
+npm create vite@latest - react - javascript + swc 
+
+npx create-react-app nombre-proyecto
+npm init react-app nombre-proyecto
+
+cd prueba
+npm install
+npm run dev
